@@ -1,0 +1,2 @@
+# PortifolioCarlos
+💼 Descrição do Projeto  Esta é uma landing page pessoal desenvolvida para apresentar minha trajetória na área de tecnologia, destacando minhas habilidades, experiências e projetos.  O objetivo do projeto é servir como um portfólio online, onde recrutadores e clientes possam conhecer melhor meu trabalho como desenvolvedor.  Na página, apresento:  🚀 Minha evolução na programação 💻 Tecnologias que domino (JavaScript, React, Node.js, etc.) 📂 Projetos desenvolvidos com links para acesso 📞 Formas de contato profissional
